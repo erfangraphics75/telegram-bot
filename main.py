@@ -4,7 +4,7 @@ import requests
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Updater, CommandHandler, CallbackContext, CallbackQueryHandler
 
-TELEGRAM_TOKEN = "7854905130:AAG1Pcvf1PxY4bs_8vdMZ_RgYagsiaFgupQ"
+TELEGRAM_TOKEN = "7854905130:AAE7KmRn6gkT-fJ8S8ru6Y1gmbhceRhNPao"
 CURRENCY_API_URL = "https://api.exchangerate-api.com/v4/latest/USD"
 CRYPTO_API_URL = "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd"
 
